@@ -21,6 +21,7 @@ function(auth, currentRecord, email) {
      * @since 2015.2
      */
     function pageInit(scriptContext) {
+        var z=0;
 
     }
 
