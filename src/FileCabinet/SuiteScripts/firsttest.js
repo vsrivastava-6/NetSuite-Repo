@@ -65,6 +65,7 @@ function(auth, currentRecord, email) {
      * @since 2015.2
      */
     function sublistChanged(scriptContext) {
+        var x=0;
 
     }
 
