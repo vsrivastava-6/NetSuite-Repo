@@ -66,14 +66,13 @@ function(auth, currentRecord, email) {
      */
     function sublistChanged(scriptContext) {
         var x=0;
-        vay y =0;
+        var y =1;
 
     }
 
     /**
      * Function to be executed after line is selected.
-     *
-     * @param {Object} scriptContext
+     *     * @param {Object} scriptContext
      * @param {Record} scriptContext.currentRecord - Current form record
      * @param {string} scriptContext.sublistId - Sublist name
      *
