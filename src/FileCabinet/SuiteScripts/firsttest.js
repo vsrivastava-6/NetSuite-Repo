@@ -66,6 +66,7 @@ function(auth, currentRecord, email) {
      */
     function sublistChanged(scriptContext) {
         var x=0;
+        vay y =0;
 
     }
 
